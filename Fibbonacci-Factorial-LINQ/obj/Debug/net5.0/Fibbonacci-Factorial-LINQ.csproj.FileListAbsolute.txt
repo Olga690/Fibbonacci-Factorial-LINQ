@@ -1,0 +1,16 @@
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\Fibbonacci-Factorial-LINQ.exe
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\Fibbonacci-Factorial-LINQ.deps.json
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\Fibbonacci-Factorial-LINQ.runtimeconfig.json
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\Fibbonacci-Factorial-LINQ.runtimeconfig.dev.json
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\Fibbonacci-Factorial-LINQ.dll
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\ref\Fibbonacci-Factorial-LINQ.dll
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\bin\Debug\net5.0\Fibbonacci-Factorial-LINQ.pdb
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.csprojAssemblyReference.cache
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.dll
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\ref\Fibbonacci-Factorial-LINQ.dll
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.pdb
+C:\Users\Asus\RiderProjects\Fibbonacci-Factorial-LINQ\Fibbonacci-Factorial-LINQ\obj\Debug\net5.0\Fibbonacci-Factorial-LINQ.genruntimeconfig.cache
